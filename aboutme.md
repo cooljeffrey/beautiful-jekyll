@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: I still has dreams
+subtitle: I still have dreams
 ---
 
 My name is Jeffrey Yu.
