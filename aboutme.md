@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I still has dreams
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jeffrey Yu.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am Chinese
+- I am an experienced software engineer
+- I am living in Australia
 
-What else do you need?
+### my favorites
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Soccer
+- Video games, especially FIFA series
+- Trouble shooting software stacks
