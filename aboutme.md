@@ -15,3 +15,8 @@ My name is Jeffrey Yu.
 - Soccer
 - Video games, especially FIFA series
 - Trouble shooting software stacks
+
+### want more about my professional ?
+
+- Check [my resume](/resume) please
+
